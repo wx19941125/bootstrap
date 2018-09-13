@@ -1,6 +1,6 @@
 ## Welcome to bootStrap
 
-bootStrap，自适应、前端开发，让web开发更迅速、简单.
+bootStrap，自适应、前端开发、Css框架，让web开发更迅速、简单.
 
 ### bootStrap helloWorld
 
